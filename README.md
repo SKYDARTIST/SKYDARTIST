@@ -33,6 +33,6 @@ I'm a Full-Stack Developer obsessed with building local-first, privacy-focused A
 
 ### 📫 Connect with Me
 - **Twitter:** [@cryptobulla](https://twitter.com/cryptobulla)
-- **Portfolio:** [antigravity.app](https://pdf-tools-pro-indol.vercel.app)
+- **Portfolio:** [https://cryptobulla.vercel.app/]
 
 *"Building the future of private AI, one orbital at a time."*
