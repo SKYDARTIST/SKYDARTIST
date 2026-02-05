@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm SKY 🛰️
 
-<!--
-**SKYDARTIST/SKYDARTIST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder & Lead Engineer at Anti-Gravity AI
+I'm a Full-Stack Developer obsessed with building local-first, privacy-focused AI applications. My goal is to bring the power of LLMs directly to the user's device without compromising security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project: Anti-Gravity AI
+**Anti-Gravity** is an elite, ad-free AI PDF utility. It features proprietary "Neural Processing" technology for chatting with documents, compressing, and merging files locally.
+
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
+- 🔒 **Privacy First:** Multi-orbital encryption and local processing.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, TailwindCSS, Framer Motion |
+| **Mobile** | Capacitor, Android Native, Play Integrity |
+| **Backend/AI** | Gemini Pro, Supabase, Vercel Edge, Node.js |
+| **Security** | CSRF Hardening, Protocol Handshaking, Neural Pulse |
+
+---
+
+### 📊 GitHub Stats & Velocity
+
+![SKYDARTIST's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKYDARTIST&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKYDARTIST&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 📫 Connect with Me
+- **Twitter:** [@cryptobulla](https://twitter.com/cryptobulla)
+- **Portfolio:** [antigravity.app](https://pdf-tools-pro-indol.vercel.app)
+
+*"Building the future of private AI, one orbital at a time."*
