@@ -1,11 +1,11 @@
-# Hi there, I'm SKY 🛰️
+# Hi there, I'm SKY 
 
 ### Founder & Lead Engineer at Anti-Gravity AI
 I'm a Full-Stack Developer obsessed with building local-first, privacy-focused AI applications. My goal is to bring the power of LLMs directly to the user's device without compromising security.
 
 ---
 
-### 🚀 Featured Project: Anti-Gravity AI
+### Featured Project: Anti-Gravity AI
 **Anti-Gravity** is an elite, ad-free AI PDF utility. It features proprietary "Neural Processing" technology for chatting with documents, compressing, and merging files locally.
 
 - 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
@@ -13,7 +13,7 @@ I'm a Full-Stack Developer obsessed with building local-first, privacy-focused A
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Tech Stack & Arsenal
 
 | Category | Tools |
 | :--- | :--- |
@@ -24,14 +24,14 @@ I'm a Full-Stack Developer obsessed with building local-first, privacy-focused A
 
 ---
 
-### 📊 GitHub Stats & Velocity
+### GitHub Stats & Velocity
 
 ![SKYDARTIST's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKYDARTIST&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKYDARTIST&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 - **Twitter:** [@cryptobulla](https://twitter.com/cryptobulla)
 - **Portfolio:** [https://cryptobulla.vercel.app/]
 
