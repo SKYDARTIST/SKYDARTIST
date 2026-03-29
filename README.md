@@ -1,4 +1,4 @@
-# Hi there, I'm SKY 
+# Hi there, I'm Aakash
 
 ### Founder & Lead Engineer at Anti-Gravity AI
 I'm a Full-Stack Developer obsessed with building local-first, privacy-focused AI applications. My goal is to bring the power of LLMs directly to the user's device without compromising security.
