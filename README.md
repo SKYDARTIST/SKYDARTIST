@@ -1,38 +1,73 @@
-# Hi there, I'm Aakash
+<div align="center">
 
-### Founder & Lead Engineer at Anti-Gravity AI
-I'm a Full-Stack Developer obsessed with building local-first, privacy-focused AI applications. My goal is to bring the power of LLMs directly to the user's device without compromising security.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Builder%20%7C%20AI%20%7C%20Mobile%20%7C%20Privacy-first&descAlignY=55&descSize=16" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Founder+of+Anti-Gravity+AI+%F0%9F%9B%B0%EF%B8%8F;Full-Stack+%2B+Mobile+Developer;Building+privacy-first+AI+tools;934+contributions+last+year)](https://git.io/typing-svg)
 
-### Featured Project: Anti-Gravity AI
-**Anti-Gravity** is an elite, ad-free AI PDF utility. It features proprietary "Neural Processing" technology for chatting with documents, compressing, and merging files locally.
+[![Portfolio](https://img.shields.io/badge/Portfolio-aakashbuild.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashbuild.vercel.app)
+[![X](https://img.shields.io/badge/X-@AakashBuild-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AakashBuild)
+[![Play Store](https://img.shields.io/badge/Google_Play-Anti--Gravity_AI-black?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
 
-- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
-- 🔒 **Privacy First:** Multi-orbital encryption and local processing.
-
----
-
-### Tech Stack & Arsenal
-
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | React, TypeScript, TailwindCSS, Framer Motion |
-| **Mobile** | Capacitor, Android Native, Play Integrity |
-| **Backend/AI** | Gemini Pro, Supabase, Vercel Edge, Node.js |
-| **Security** | CSRF Hardening, Protocol Handshaking, Neural Pulse |
+</div>
 
 ---
 
-### GitHub Stats & Velocity
+### What I Build
 
-![SKYDARTIST's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKYDARTIST&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKYDARTIST&layout=compact&theme=radical&hide_border=true)
+Self-taught builder shipping production apps with AI. Started in September 2024, published on the Play Store within months.
+
+- **Anti-Gravity AI** — Privacy-first AI PDF app. Chat with PDFs, compress, merge. 456 MAU, 9 lifetime sales, ⭐⭐⭐⭐⭐ on Play Store. [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
+- **mindmint.study** — AI study tools: mindmaps, quizzes, flashcards. [→ Live](https://mindmint.study)
+- **CareerPilot AI** — Autonomous job application agent powered by Gemini + n8n. [→ Live](https://career-pilot-ai-psi.vercel.app)
 
 ---
 
-### Connect with Me
-- **Twitter:** [@AakashBuild](https://twitter.com/AakashBuild)
-- **Portfolio:** [https://cryptobulla.vercel.app/]
+### Tech Stack
 
-*"Building the future of private AI, one orbital at a time."*
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Backend & AI**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Security**
+
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![Play Integrity](https://img.shields.io/badge/Play_Integrity_API-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SKYDARTIST&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYDARTIST&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SKYDARTIST&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
