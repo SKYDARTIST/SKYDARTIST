@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Builder%20%7C%20AI%20%7C%20Mobile%20%7C%20Privacy-first&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Founder+of+Anti-Gravity+AI+%F0%9F%9B%B0%EF%B8%8F;Full-Stack+%2B+Mobile+Developer;Building+privacy-first+AI+tools;934+contributions+last+year)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Founder+of+Anti-Gravity+AI+%F0%9F%9B%B0%EF%B8%8F;Full-Stack+%2B+Mobile+Developer;Building+privacy-first+AI+tools;Open+to+full-time+AI+roles)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aakashbuild.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashbuild.vercel.app)
 [![X](https://img.shields.io/badge/X-@AakashBuild-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AakashBuild)
@@ -16,7 +16,7 @@
 
 Self-taught builder shipping production apps with AI. Started in September 2024, published on the Play Store within months.
 
-- **Anti-Gravity AI** — Privacy-first AI PDF app. Chat with PDFs, compress, merge. 456 MAU, 9 lifetime sales, ⭐⭐⭐⭐⭐ on Play Store. [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
+- **Anti-Gravity AI** — Privacy-first AI PDF app. Chat with PDFs, compress, merge. 456 MAU, 11 lifetime sales, ⭐⭐⭐⭐⭐ on Play Store. [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
 - **mindmint.study** — AI study tools: mindmaps, quizzes, flashcards. [→ Live](https://mindmint.study)
 - **CareerPilot AI** — Autonomous job application agent powered by Gemini + n8n. [→ Live](https://career-pilot-ai-psi.vercel.app)
 
@@ -39,6 +39,7 @@ Self-taught builder shipping production apps with AI. Started in September 2024,
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Security**
