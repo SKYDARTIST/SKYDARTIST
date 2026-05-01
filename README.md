@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Builder%20%7C%20AI%20%7C%20Mobile%20%7C%20Privacy-first&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Solo%20builder%20shipping%20privacy-first%20AI%20apps&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Founder+of+Anti-Gravity+AI+%F0%9F%9B%B0%EF%B8%8F;Full-Stack+%2B+Mobile+Developer;Building+privacy-first+AI+tools;Open+to+full-time+AI+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=640&lines=Founder+of+Anti-Gravity+AI;1000%2B+installs+%C2%B7+456+MAU+%C2%B7+11+lifetime+sales;Full-stack+%2B+mobile+developer;Building+privacy-first+AI+tools)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aakashbuild.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashbuild.vercel.app)
 [![X](https://img.shields.io/badge/X-@AakashBuild-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AakashBuild)
@@ -12,15 +12,33 @@
 
 ---
 
+### Builder Profile
+
+Solo builder shipping AI mobile apps, full-stack products, and privacy-first tools.
+
+Founder of **Anti-Gravity AI** — a privacy-first AI PDF app live on Google Play.
+
+**1000+ installs · 456 MAU · 11 lifetime sales · built solo**
+
+Started building seriously in 2025 and shipped production apps to the Play Store within months.
+
+---
+
 ### What I Build
 
-Self-taught builder shipping production apps with AI. Started in September 2024, published on the Play Store within months.
-
-- **Anti-Gravity AI** — Privacy-first AI PDF app. Chat with PDFs, compress, merge. 456 MAU, 11 lifetime sales, ⭐⭐⭐⭐⭐ on Play Store. [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
+- **Anti-Gravity AI** — Privacy-first AI PDF app for PDF chat, compression, merge, secure document tools, and Gemini-powered document analysis. [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
 - **mindmint.study** — AI study tools: mindmaps, quizzes, flashcards. [→ Live](https://mindmint.study)
 - **CareerPilot AI** — Autonomous job application agent powered by Gemini + n8n. [→ Live](https://career-pilot-ai-psi.vercel.app)
 
 ---
+
+### Current Focus
+
+- Mobile-first AI products
+- Privacy-first document workflows
+- Gemini-powered assistants and automations
+- Auth, payments, analytics, and production deployment
+- Shipping useful tools fast without over-engineering
 
 ### Tech Stack
 
