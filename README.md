@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Solo%20builder%20shipping%20privacy-first%20AI%20apps&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Product%20%26%20Automation%20Developer&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=640&lines=Founder+of+Anti-Gravity+AI;1000%2B+installs+%C2%B7+456+MAU+%C2%B7+11+lifetime+sales;Full-stack+%2B+mobile+developer;Building+privacy-first+AI+tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=AI+Product+%26+Automation+Developer;1200%2B+installs+%C2%B7+14+paid+sales+%C2%B7+7+countries;Building+mobile+AI+apps+and+voice+agents;Shipping+workflow+automation+systems)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aakashbuild.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashbuild.vercel.app)
 [![X](https://img.shields.io/badge/X-@AakashBuild-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AakashBuild)
@@ -14,33 +14,51 @@
 
 ### Builder Profile
 
-Solo builder shipping AI mobile apps, full-stack products, and privacy-first tools.
+AI Product & Automation Developer building mobile AI apps, voice agents, and workflow automation systems.
 
-Founder of **Anti-Gravity AI** — a privacy-first AI PDF app live on Google Play.
+Founder of **Anti-Gravity AI** — an AI PDF app live on Google Play.
 
-**1000+ installs · 456 MAU · 11 lifetime sales · built solo**
+**1200+ installs · 14 paid lifetime sales · 7 countries · 5★ rating · built solo**
 
-Started building seriously in 2025 and shipped production apps to the Play Store within months.
-
----
-
-### What I Build
-
-- **Anti-Gravity AI** — Privacy-first AI PDF app for PDF chat, compression, merge, secure document tools, and Gemini-powered document analysis. [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
-- **mindmint.study** — AI study tools: mindmaps, quizzes, flashcards. [→ Live](https://mindmint.study)
-- **CareerPilot AI** — Autonomous job application agent powered by Gemini + n8n. [→ Live](https://career-pilot-ai-psi.vercel.app)
+I focus on practical AI products: secure API integrations, billing/auth flows, automation pipelines, and assessment-ready builds that reviewers can actually inspect.
 
 ---
 
-### Current Focus
+### Current Proof
 
-- Mobile-first AI products
-- Privacy-first document workflows
-- Gemini-powered assistants and automations
-- Auth, payments, analytics, and production deployment
-- Shipping useful tools fast without over-engineering
+- **Anti-Gravity AI** — Android AI PDF app live on Google Play.  
+  `React · Capacitor · Supabase · Gemini API · Google Play Billing`  
+  **1200+ installs · 14 paid lifetime sales · 7 countries · 5★ rating**  
+  [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
 
-### Tech Stack
+- **CareerPilot AI** — autonomous job discovery and application-draft pipeline.  
+  `Next.js · n8n · Gemini API · SerpAPI · Supabase`  
+  SerpAPI search → Gemini scoring → n8n workflow → Supabase → Next.js dashboard.  
+  [→ Repo](https://github.com/SKYDARTIST/career-pilot-ai) · [→ Live](https://career-pilot-ai-psi.vercel.app)
+
+- **Divyasree WOW AI Voice Agent** — outbound real-estate lead qualification voice agent.  
+  `ElevenLabs · Conversational AI · Lead Scoring · Hinglish Support`  
+  System prompt, scoring schema, objection flows, and 5 recorded test calls with transcripts.  
+  [→ Repo](https://github.com/SKYDARTIST/ai-voice-agent)
+
+- **AI Mail** — universal email client assessment with live Gmail OAuth.  
+  `Next.js · NextAuth · Gmail REST API · Gemini AI · Supabase`  
+  Built inbox sync, send/reply/archive, provider adapter layer, and fixed token exposure before submission.  
+  [→ Repo](https://github.com/SKYDARTIST/ai-email-client)
+
+---
+
+### Automation Builds
+
+- **LinkedIn DM Automation** — 6-workflow outreach system using n8n, Unipile, Google Sheets, webhooks, sender limits, reply-stop logic, and setup/security docs.  
+  [→ Repo](https://github.com/SKYDARTIST/Linkedin-DM)
+
+- **mindmint.study** — AI study tools for mindmaps, quizzes, and flashcards.  
+  [→ Live](https://mindmint.study)
+
+---
+
+### Stack
 
 **Frontend & Mobile**
 
@@ -51,20 +69,30 @@ Started building seriously in 2025 and shipped production apps to the Play Store
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Backend & AI**
+**Backend, AI & Automation**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-111111?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**Security**
+**Security & Production**
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens)
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Play Integrity](https://img.shields.io/badge/Play_Integrity_API-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google Play Billing](https://img.shields.io/badge/Google_Play_Billing-3DDC84?style=flat-square&logo=google-play&logoColor=white)
+
+---
+
+### What I’m Looking For
+
+AI product, automation, and full-stack roles where shipping speed, product sense, secure integrations, and real deployed work matter.
 
 ---
 
