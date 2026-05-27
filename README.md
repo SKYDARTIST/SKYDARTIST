@@ -97,6 +97,16 @@ AI product, automation, and full-stack roles where shipping speed, product sense
 
 ---
 
+### Consistency
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SKYDARTIST&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
 ### Repo Signal
 
 - **36 public repositories** across mobile AI, full-stack apps, automation workflows, and assessment builds.
