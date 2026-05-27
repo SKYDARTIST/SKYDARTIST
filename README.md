@@ -97,20 +97,12 @@ AI product, automation, and full-stack roles where shipping speed, product sense
 
 ---
 
-### GitHub Stats
+### Repo Signal
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SKYDARTIST&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYDARTIST&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SKYDARTIST&theme=tokyonight&hide_border=true" />
-
-</div>
+- **36 public repositories** across mobile AI, full-stack apps, automation workflows, and assessment builds.
+- **Production app shipped** on Google Play with paid users and active maintenance.
+- **Recent focus:** AI agents, workflow automation, secure API integrations, Supabase-backed dashboards, and Android billing.
+- **Public proof:** profile README links directly to reviewable repos, demos, recordings, transcripts, and setup docs.
 
 ---
 
