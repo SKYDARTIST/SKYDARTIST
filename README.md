@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Product%20%26%20Automation%20Developer&descAlignY=55&descSize=16" />
+<h1>Aakash</h1>
+<h3>AI Product & Automation Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=AI+Product+%26+Automation+Developer;1200%2B+installs+%C2%B7+14+paid+sales+%C2%B7+7+countries;Building+mobile+AI+apps+and+voice+agents;Shipping+workflow+automation+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=1200%2B+installs+%C2%B7+14+paid+sales+%C2%B7+7+countries;Building+mobile+AI+apps+and+voice+agents;Shipping+workflow+automation+systems;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Gemini+%C2%B7+ElevenLabs+%C2%B7+n8n)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aakashbuild.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashbuild.vercel.app)
 [![X](https://img.shields.io/badge/X-@AakashBuild-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AakashBuild)
@@ -114,7 +115,6 @@ AI product, automation, and full-stack roles where shipping speed, product sense
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+Built in public. Shipping practical AI products.
 
 </div>
