@@ -3,7 +3,7 @@
 <h1>Aakash</h1>
 <h3>AI Automation & Growth Engineer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=1800%2B+installs+%C2%B7+16+paid+sales+%C2%B7+7+countries;Building+automation%2C+AI+agents%2C+and+growth+systems;Turning+manual+workflows+into+shipped+automations;n8n+%C2%B7+Claude+%C2%B7+Gemini+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=1860%2B+installs+%C2%B7+17+paid+sales+%C2%B7+7+countries;Building+automation%2C+AI+agents%2C+and+growth+systems;Turning+manual+workflows+into+shipped+automations;n8n+%C2%B7+Claude+%C2%B7+Gemini+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+APIs)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aakashbuild.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashbuild.vercel.app)
 [![X](https://img.shields.io/badge/X-@AakashBuild-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AakashBuild)
@@ -19,7 +19,7 @@ AI automation and growth engineer. I build automation systems, AI agents, and pr
 
 Founder of **Anti-Gravity AI**, an AI PDF app live on Google Play.
 
-**1800+ installs · 16 paid lifetime sales · 7 countries · 5★ rating · built solo**
+**1860+ installs · 17 paid lifetime sales · 7 countries · 5★ rating · built solo**
 
 I work on practical automation and AI: workflow automation, lead scoring and enrichment, secure API integrations, and AI agents. Everything is shipped and inspectable.
 
@@ -29,7 +29,7 @@ I work on practical automation and AI: workflow automation, lead scoring and enr
 
 - **Anti-Gravity AI**: Android AI PDF app live on Google Play.  
   `React · Capacitor · Supabase · Gemini API · Google Play Billing`  
-  **1800+ installs · 16 paid lifetime sales · 7 countries · 5★ rating**  
+  **1860+ installs · 17 paid lifetime sales · 7 countries · 5★ rating**  
   [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
 
 - **CareerPilot AI**: autonomous job-discovery and application-draft pipeline.  
