@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Aakash</h1>
-<h3>AI Product & Automation Engineer</h3>
+<h3>AI Automation Engineer @RevenueOptics </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=2000%2B+installs+%C2%B7+20+paid+sales+%C2%B7+10+countries;Building+production+apps%2C+AI+workflows%2C+and+evaluation+systems;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Gemini+%C2%B7+n8n+%C2%B7+APIs)](https://git.io/typing-svg)
 
