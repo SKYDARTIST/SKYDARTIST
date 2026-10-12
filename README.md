@@ -1,9 +1,9 @@
 <div align="center">
 
 <h1>Aakash</h1>
-<h3>AI Automation Engineer @RevenueOptics </h3>
+<h3>AI Automation Engineer (Growth Systems) at Revenue Optics</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=2000%2B+installs+%C2%B7+20+paid+sales+%C2%B7+10+countries;Building+production+apps%2C+AI+workflows%2C+and+evaluation+systems;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Gemini+%C2%B7+n8n+%C2%B7+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=2200%2B+installs+%C2%B7+22%2B+paid+sales+%C2%B7+11%2B+countries;Building+production+apps%2C+AI+workflows%2C+and+evaluation+systems;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Gemini+%C2%B7+n8n+%C2%B7+APIs)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aakashbuild.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashbuild.vercel.app)
 [![X](https://img.shields.io/badge/X-@AakashBuild-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AakashBuild)
@@ -19,7 +19,7 @@ AI product and automation engineer building production apps, AI workflows, and s
 
 Founder of **Anti-Gravity AI** — an AI PDF app live on Google Play.
 
-**2000+ installs · 20 paid lifetime sales · 10 countries · 5★ rating · built solo**
+**2200+ installs · 22+ paid lifetime sales · 11+ countries · 5★ rating · built solo**
 
 I focus on practical AI products: secure API integrations, billing and auth flows, automation pipelines, and evaluation systems that make model behavior measurable.
 
@@ -29,7 +29,7 @@ I focus on practical AI products: secure API integrations, billing and auth flow
 
 - **Anti-Gravity AI** — Android AI PDF app live on Google Play.
   `React · Capacitor · Supabase · Gemini API · Google Play Billing`
-  **2000+ installs · 20 paid lifetime sales · 10 countries · 5★ rating**
+  **2200+ installs · 22+ paid lifetime sales · 11+ countries · 5★ rating**
   [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
 
 - **Candidate Pre-screen LLM Evaluation** — private Python evaluation project.
@@ -95,9 +95,9 @@ I focus on practical AI products: secure API integrations, billing and auth flow
 
 ---
 
-### What I’m Looking For
+### Current Focus
 
-AI product, automation, and full-stack roles where shipping speed, product sense, secure integrations, and real deployed work matter.
+At Revenue Optics, I work on AI automation and growth systems. Current work is workflow discovery and technical scoping; I have not shipped a Revenue Optics ATS or client workspace. Previously, I worked in AI & Digital Operations at F5 Hiring Solutions (June–October 2026).
 
 ---
 
@@ -113,10 +113,10 @@ AI product, automation, and full-stack roles where shipping speed, product sense
 
 ### Repo Signal
 
-- **28 public repositories** across mobile AI, full-stack apps, and automation workflows.
+- **Public repositories** across mobile AI, full-stack apps, and automation workflows.
 - **Production app shipped** on Google Play with paid users and active maintenance.
 - **Recent focus:** AI agents, workflow automation, secure API integrations, Supabase-backed dashboards, and Android billing.
-- **Public proof:** profile README links directly to reviewable repos, demos, recordings, transcripts, and setup docs.
+- **Public proof:** this README links to selected public repos and demos. The candidate pre-screen evaluation repo is private.
 
 ---
 
