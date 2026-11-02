@@ -3,7 +3,7 @@
 <h1>Aakash</h1>
 <h3>AI Automation Engineer (Growth Systems) at Revenue Optics</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=2200%2B+installs+%C2%B7+22%2B+paid+sales+%C2%B7+11%2B+countries;Building+production+apps%2C+AI+workflows%2C+and+evaluation+systems;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Gemini+%C2%B7+n8n+%C2%B7+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=2300%2B+installs+%C2%B7+24+paid+sales+%C2%B7+11+countries;Building+production+apps%2C+AI+workflows%2C+and+evaluation+systems;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Gemini+%C2%B7+n8n+%C2%B7+APIs)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aakashbuild.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashbuild.vercel.app)
 [![X](https://img.shields.io/badge/X-@AakashBuild-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AakashBuild)
@@ -19,7 +19,7 @@ AI product and automation engineer building production apps, AI workflows, and s
 
 Founder of **Anti-Gravity AI** — an AI PDF app live on Google Play.
 
-**2200+ installs · 22+ paid lifetime sales · 11+ countries · 5★ rating · built solo**
+**2300+ installs · 24 paid lifetime sales · 11 countries · 5★ rating · built solo**
 
 I focus on practical AI products: secure API integrations, billing and auth flows, automation pipelines, and evaluation systems that make model behavior measurable.
 
@@ -29,7 +29,7 @@ I focus on practical AI products: secure API integrations, billing and auth flow
 
 - **Anti-Gravity AI** — Android AI PDF app live on Google Play.
   `React · Capacitor · Supabase · Gemini API · Google Play Billing`
-  **2200+ installs · 22+ paid lifetime sales · 11+ countries · 5★ rating**
+  **2300+ installs · 24 paid lifetime sales · 11 countries · 5★ rating**
   [→ Play Store](https://play.google.com/store/apps/details?id=com.cryptobulla.antigravity)
 
 - **Candidate Pre-screen LLM Evaluation** — private Python evaluation project.
