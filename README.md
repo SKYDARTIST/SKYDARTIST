@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Aakash</h1>
-<h3>AI Automation Engineer (Growth Systems) at Revenue Optics</h3>
+<h3>AI Product &amp; Automation Engineer</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=2300%2B+installs+%C2%B7+24+paid+sales+%C2%B7+11+countries;Building+production+apps%2C+AI+workflows%2C+and+evaluation+systems;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Gemini+%C2%B7+n8n+%C2%B7+APIs)](https://git.io/typing-svg)
 
@@ -97,7 +97,7 @@ I focus on practical AI products: secure API integrations, billing and auth flow
 
 ### Current Focus
 
-At Revenue Optics, I work on AI automation and growth systems. Current work is workflow discovery and technical scoping; I have not shipped a Revenue Optics ATS or client workspace. Previously, I worked in AI & Digital Operations at F5 Hiring Solutions (June–October 2026).
+Building AI-powered apps, workflow automations and secure API integrations. My experience includes AI & Digital Operations at F5 Hiring Solutions (June–October 2026), working on recruiting workflows, business applications and a referral platform.
 
 ---
 
